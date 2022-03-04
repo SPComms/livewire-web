@@ -73,7 +73,7 @@ For episodes that used Cloudflare, here are the top underlying podcast hosts, an
 
 ### 3. [Highwinds · 8.09%](https://www.stackpath.com/highwinds)
 
-Highwinds CDN was acquired by StackPath CDN, which is powered by over 45 edge locations around the world.
+Highwinds CDN was acquired by StackPath which is powered by over 50 edge locations around the world.
 
 For episodes that used Highwinds, here are the top underlying podcast hosts, and percentage of their own episodes allocated to this network:
 
